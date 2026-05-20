@@ -49,11 +49,11 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [E-commerce](https://github.com/mohammedbakri123/E-commerce) | AI-powered shopping platform | ASP.NET Core, AI |
+| [MPx-player](https://github.com/mohammedbakri123/MPx-Player) | Android video player | Flutter, Dart |
+| [E-commerce](https://github.com/mohammedbakri123/E-commerce) | API for E-commerce platform | ASP.NET Core, AI |
 | [Nexus](https://github.com/mohammedbakri123/Nexus) | Gaming database mobile app | Flutter, Dart |
-| [World-Wise](https://github.com/mohammedbakri123/World-Wise) | Interactive React application | React, JavaScript |
 | [Inventory Management](https://github.com/mohammedbakri123/inventory-managment) | Stock & inventory system | C#, .NET |
-| [CyberSafeKids](https://github.com/mohammedbakri123/CyberSafeKids) | Kids internet safety education | HTML, CSS, JS |
+
 
 ---
 
